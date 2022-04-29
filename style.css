@@ -81,7 +81,19 @@ h1 {
 	padding-bottom: 20px;
 	margin-top: 10px;
 }
+.tabela_prod{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	text-align: center;
+	text-justify:distribute;
+	margin: 20px;
+}
 
+#ouvidoria {
+	padding-left: 20px;
+	padding-bottom: 5px;
+}
 /*
 table {
 	align-items: center;
